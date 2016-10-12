@@ -6,6 +6,7 @@
  * For more information please visit http://www.codefutures.com/products/firestorm
  */
 
+
 package j2se.xe.github.exceptions;
 
 public class TestEmpsDaoException extends DaoException
