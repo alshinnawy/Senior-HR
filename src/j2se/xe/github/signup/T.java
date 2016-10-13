@@ -13,6 +13,7 @@ public class T {
     public static void main(String[] args) {
         System.out.println("testtt2");
         System.out.println("testttt");
+        System.out.println("test");
     }
     
 }
