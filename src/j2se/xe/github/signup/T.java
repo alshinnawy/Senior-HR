@@ -10,5 +10,8 @@ package j2se.xe.github.signup;
  * @author Administrator
  */
 public class T {
+    public static void main(String[] args) {
+        System.out.println("testtt2");
+    }
     
 }
